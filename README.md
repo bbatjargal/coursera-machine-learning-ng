@@ -1,5 +1,3 @@
-# coursera-machine-learning-ng
-
 ### Introduction
 
 Here are my solutions for Machine Learning course's assignments.
